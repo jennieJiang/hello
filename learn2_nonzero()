@@ -1,4 +1,5 @@
 np.nonzero(a)表示返回a中不为0的元素的下标，对于布尔值类型False即为0
+
 ```
 {
     b1=np.array('True','False','True','False')
