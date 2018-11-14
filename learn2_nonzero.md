@@ -11,7 +11,7 @@ np.nonzero(a)表示返回a中不为0的元素的下标，
 
 (2)对于二维数组,nonzero（a）函数一般返回两行array（）。如果mat（）一下，就是个2*N 的矩阵
 N 表示的是矩阵a中不为0的元素个数
-转载自 (https://blog.csdn.net/u010315668/article/details/80204973)
+转载自 https://blog.csdn.net/u010315668/article/details/80204973
 例：
 
 ```
